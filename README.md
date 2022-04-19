@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @camHaley, a CS Student @FIU
-- 🌱 I’m currently learning python and C++ for the raspberriPi and Arduino
+- 🌱 I’m currently learning Java, Python, and C++ for Raspberri Pi 
 - 👀 I’m interested in Iot, embedded engineering, and software development
 - 💞️ I’m looking to collaborate on fun home automation projects and anything opensource
 - 📫 email me @ chale012@fiu.edu
