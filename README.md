@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @camHaley, a CS Student @FIU
-- 🌱 I’m currently learning Java, Python, and C++ for Raspberri Pi 
-- 👀 I’m interested in Iot, embedded engineering, and software development
-- 💞️ I’m looking to collaborate on fun home automation projects and anything opensource
-- 📫 email me @ chale012@fiu.edu
+- 🌱 I’m currently learning Java and Python
+- 👀 I’m interested in SWE, embedded, and ML. 
+- 📫 email me @ chale012@fiu.edu OR cameron.haley329@gmail.com
 
 <!---
 camHaley/camHaley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
