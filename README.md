@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @camHaley, a CS Student @FIU
-- 🌱 I’m currently learning Java and Python
+- 🌱 I’m currently proficient in Java and C++
 - 👀 I’m interested in SWE, embedded, and ML. 
 - 📫 email me @ chale012@fiu.edu OR cameron.haley329@gmail.com
 
